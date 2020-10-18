@@ -36,7 +36,8 @@ def turn(board)
 end
 
 def play(board)
-  
+  loop = 0 
+  while 
 end
 
 
